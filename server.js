@@ -1,10 +1,12 @@
 // use express
+const express = require("express");
+const  path = require("path");
 
-let app = express();
+const app = express();
 
 // PORTS
 
-let PORT = 3000;
+const PORT = 3000;
 
 
 
