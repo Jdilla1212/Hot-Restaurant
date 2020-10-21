@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Jdilla1212/Hot-Restaurant/issues"
   },
-  "homepage": "https://github.com/Jdilla1212/Hot-Restaurant#readme"
+  "homepage": "https://github.com/Jdilla1212/Hot-Restaurant#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
